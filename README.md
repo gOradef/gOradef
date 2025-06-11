@@ -23,7 +23,7 @@
   - Опыт итеративной разработки с использованием Git Flow и CI/CD
 
 ## 📬 Связь
-  Telegram: @efimovfff \n
+  Telegram: @efimovfff     
   Email: efimovsasha2007@gmail.com
 
 ## 🔭 В работе
