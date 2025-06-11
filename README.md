@@ -1,4 +1,4 @@
-🧑‍💻 Alexandr | Full Stack Developer (Backend Focus)
+# 🧑‍💻 Alexandr | Full Stack Developer (Backend Focus)
 
 Опыт: Разработка масштабируемых веб-приложений с акцентом на бэкенд.
 
