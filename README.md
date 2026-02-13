@@ -3,7 +3,7 @@
 Опыт: Разработка масштабируемых веб-приложений с акцентом на бэкенд.
 
 ## 🛠️ Технический стек
-- Backend: C#, C++ (C++17/20), PostgreSQL, libpqxx, Boost.Asio, Crow.CPP, JWT, JSON, REST API
+- Backend: C#, C++, EF Core, ASP.NET, PostgreSQL, libpqxx, Boost.Asio, JWT, REST API
 - Frontend: Vue.js, Bootstrap-Vue, HTML5, SCSS
 - DevOps: Docker, Nginx, VPS, Git Flow, Linux CLI
 - Методологии: ООП, TDD, Agile, итеративная разработка
